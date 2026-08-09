@@ -1,18 +1,19 @@
-name,composer,instrumentation,recording
-Final Fantasy V (Main Theme),Nobuo Uematsu,full orchestra,https://www.youtube.com/watch?v=k2duyR0_UMA
-The Color Purple (Main Theme),John Williams,string orchestra,https://www.youtube.com/watch?v=OHWRF5Im1v8
-B Rossette,Sujin Kim,chamber,https://www.youtube.com/watch?v=gimwNa8z2SU
-Last Carnival,Norihiro Tsuru,chamber,https://www.youtube.com/watch?v=hG1gbOjWWdI
-Something There (from Beauty and the Beast),,chamber,https://www.youtube.com/watch?v=R-GoD0rmegE
-Gabriel's Oboe,Ennio Morricone,violin/cello,https://www.youtube.com/watch?v=2WJhax7Jmxs
-Passing By,Yiruma,piano/cello,https://www.youtube.com/watch?v=m2uIbyraXQ8
-The Name of Life (Spirited Away),Joe Hisaishi,piano,https://www.youtube.com/watch?v=vMboypSkj3c
-Your Lie in April (Full OST),,piano,https://soundcloud.com/harrisonku/sets/shigatsu-wa-kimi-no-uso-your-lie-in-april-piano-ost
-Main Theme Piano Solo (SSBU),,piano,https://www.youtube.com/watch?v=QqZdtRF4aK0
-Bright Lights Bigger City / Magic,Treblemakers (Pitch Perfect),acapella,https://www.youtube.com/watch?v=6RgS2EmMM_E
-Tonight I'm Lovin You / Dilliwaali Girlfriend,Penn Masala,acapella,https://www.youtube.com/watch?v=JJ0_AmA3YVk
-White Christmas,Pentatonix,acapella,https://www.youtube.com/watch?v=3BX4TZo9rXQ
-Impromptu,,piano,https://soundcloud.com/harrisonku/impromptu
-Ending,,piano,https://soundcloud.com/harrisonku/ending
-First,,piano,https://soundcloud.com/harrisonku/first
-Story,,chamber,
+name,composer,instrumentation,recording,category
+Final Fantasy V (Main Theme),Nobuo Uematsu,full orchestra,https://www.youtube.com/watch?v=k2duyR0_UMA,arrangement
+The Color Purple (Main Theme),John Williams,string orchestra,https://www.youtube.com/watch?v=OHWRF5Im1v8,arrangement
+B Rossette,Sujin Kim,chamber,https://www.youtube.com/watch?v=gimwNa8z2SU,arrangement
+Last Carnival,Norihiro Tsuru,chamber,https://www.youtube.com/watch?v=hG1gbOjWWdI,arrangement
+Something There (from Beauty and the Beast),Alan Menken,chamber,https://www.youtube.com/watch?v=R-GoD0rmegE,arrangement
+Gabriel's Oboe,Ennio Morricone,violin/cello,https://www.youtube.com/watch?v=2WJhax7Jmxs,arrangement
+Passing By,Yiruma,piano/cello,https://www.youtube.com/watch?v=m2uIbyraXQ8,arrangement
+The Name of Life (Spirited Away),Joe Hisaishi,piano,https://www.youtube.com/watch?v=vMboypSkj3c,arrangement
+Your Lie in April (Full OST),Masaru Yokoyama,piano,https://soundcloud.com/harrisonku/sets/shigatsu-wa-kimi-no-uso-your-lie-in-april-piano-ost,arrangement
+Main Theme Piano Solo (SSBU),Hideki Sakamoto,piano,https://www.youtube.com/watch?v=_aTvXj36e_U&list=RD_aTvXj36e_U&start_radio=1,arrangement
+Bright Lights Bigger City / Magic,Treblemakers (Pitch Perfect),acapella,https://www.youtube.com/watch?v=6RgS2EmMM_E,arrangement
+Tonight I'm Lovin You / Dilliwaali Girlfriend,Penn Masala,acapella,https://www.youtube.com/watch?v=JJ0_AmA3YVk,arrangement
+White Christmas,Pentatonix,acapella,https://www.youtube.com/watch?v=3BX4TZo9rXQ,arrangement
+blue,yung kai,piano/vocal,https://www.youtube.com/watch?v=GxOvowjYq_E&list=RDGxOvowjYq_E&start_radio=1,arrangement
+Impromptu,Harrison Ku,piano,https://soundcloud.com/harrisonku/impromptu,composition
+Ending,Harrison Ku,piano,https://soundcloud.com/harrisonku/ending,composition
+First,Harrison Ku,piano,https://soundcloud.com/harrisonku/first,composition
+Story,Harrison Ku,chamber,,composition

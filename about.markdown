@@ -4,8 +4,6 @@ title: about
 permalink: /about/
 exclude: false
 ---
-Hi, I'm Harrison! I currently work as a quantitative trader. I majored in CS + Stats at UC San Diego.
+Hi, I'm Harrison! I currently work as a quantitative trader. Outside of work, I like opening credit cards and thinking about music.
 
-This website is my attempt to collect everything I have to show for my hobbies and put them in one place. 
-
-Other than the things here, I also enjoy reading, watching smash, and playing basketball.
+Here's a collection of some of the things I've worked on.

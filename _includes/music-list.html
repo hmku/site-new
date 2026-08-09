@@ -1,0 +1,20 @@
+<div class="music-list">
+  {% assign sheets = site.static_files | where: "sheet", true %}
+  {% for arr in site.data.arrangements %}
+    {% assign filename = arr.name | remove: "(" | remove: ")" | remove: "/ " | remove: "'" | downcase | strip | replace: " ", "-" %}
+    <article class="music-item">
+      <div class="music-copy">
+        <h2>{{ arr.name }}</h2>
+        <p>
+          <span class="music-kind">{{ arr.category }}</span>
+          {% if arr.composer != empty %}<span>{{ arr.composer }}</span>{% endif %}
+          <span>{{ arr.instrumentation }}</span>
+        </p>
+      </div>
+      <div class="music-links">
+        {% if arr.recording != empty %}<a href="{{ arr.recording }}" target="_blank" rel="noopener noreferrer">recording <span aria-hidden="true">↗</span></a>{% endif %}
+        {% for sheet in sheets %}{% if sheet.basename == filename %}<a href="{{ sheet.path | relative_url }}" target="_blank" rel="noopener noreferrer">sheet <span aria-hidden="true">↗</span></a>{% endif %}{% endfor %}
+      </div>
+    </article>
+  {% endfor %}
+</div>

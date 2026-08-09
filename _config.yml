@@ -21,16 +21,11 @@
 title: Harrison Ku
 email: harrisonmku@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software, markets, music, and thoughtful experiments by Harrison Ku.
+  Harrison Ku's personal website
 baseurl: ""
 url: "https://harrisonku.com"
 github_username:  hmku
 linkedin_username: hmku1
-header_pages:
-  - about.markdown
-  - projects.markdown
-  - music.markdown
-  - travel.markdown
 
 # Build settings
 theme: minima
@@ -52,6 +47,9 @@ defaults:
       sheet: true
 
 excerpt_separator: <!--more-->
+
+exclude:
+  - collections/_posts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
