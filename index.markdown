@@ -6,7 +6,9 @@ layout: default
 
 <section class="one-page-section" id="about">
   <h1>about</h1>
-  {{ about.content | markdownify }}
+  <div class="about-copy">
+    {{ about.content | markdownify }}
+  </div>
 </section>
 
 <section class="one-page-section" id="projects">
