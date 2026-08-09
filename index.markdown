@@ -8,6 +8,10 @@ layout: default
   <h1>about</h1>
   <div class="section-content about-copy">
     {{ about.content | markdownify }}
+    <nav class="about-links" aria-label="Social profiles">
+      <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+      <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+    </nav>
   </div>
 </section>
 
@@ -21,7 +25,7 @@ layout: default
         </span>
         <span class="project-copy">
           <span class="project-heading"><strong>planner</strong><span aria-hidden="true">↗</span></span>
-          <span class="project-description">A browser-based Monte Carlo simulator for exploring long-term financial plans against historical market returns.</span>
+          <span class="project-description">A financial planning simulator that dynamically recommends an SPX beta for each year and wealth level to minimize depletion risk.</span>
         </span>
       </a>
       <a class="project-card" href="https://cardfolio.harrisonku.com/" target="_blank" rel="noopener noreferrer">
