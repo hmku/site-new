@@ -26,7 +26,7 @@ A collection of some of the arrangements/compositions I've worked on.
     {% assign sheets = site.static_files | where: "sheet", true %}
     {% for sheet in sheets %}
       {% if sheet.basename == filename %}
-        <td> <a href="/site-new{{ sheet.path }}">link</a> </td>
+        <td> <a href="{{ sheet.path | relative_url }}">link</a> </td>
       {% endif %}
     {% endfor %}
   </tr>
