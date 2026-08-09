@@ -18,14 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: hku
-# email: your-email@example.com
+title: Harrison Ku
+email: harrisonmku@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  hku's personal website
-baseurl: "/site-new" # the subpath of your site, e.g. /blog
-url: "http://hmku.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Software, markets, music, and thoughtful experiments by Harrison Ku.
+baseurl: ""
+url: "https://harrisonku.com"
 github_username:  hmku
 linkedin_username: hmku1
+header_pages:
+  - about.markdown
+  - projects.markdown
+  - music.markdown
+  - travel.markdown
 
 # Build settings
 theme: minima
