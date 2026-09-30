@@ -30,7 +30,7 @@ layout: default
       </a>
       <a class="project-card" href="https://cardfolio.harrisonku.com/" target="_blank" rel="noopener noreferrer">
         <span class="project-image">
-          <img src="{{ '/assets/images/cardfolio-2026-09.png' | relative_url }}" alt="Cardfolio's Cards tab: cardholder stats, a to-do list, and color-coded cards that need a decision or still owe a signup bonus">
+          <img src="{{ '/assets/images/cardfolio-harrison.png' | relative_url }}" alt="Cardfolio's Cards tab: my cardholder stats, a to-do list, and color-coded cards that need a decision or still owe a signup bonus">
         </span>
         <span class="project-copy">
           <span class="project-heading"><strong>cardfolio</strong><span aria-hidden="true">↗</span></span>
