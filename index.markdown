@@ -21,7 +21,7 @@ layout: default
     <div class="project-grid">
       <a class="project-card" href="https://planner.harrisonku.com/" target="_blank" rel="noopener noreferrer">
         <span class="project-image">
-          <img src="{{ '/assets/images/planner.png' | relative_url }}" alt="Financial Runway Planner interface">
+          <img src="{{ '/assets/images/planner.png' | relative_url }}" alt="Financial Runway Planner overview: plan inputs, run-out risk and wealth metrics, and simulated current-dollar net worth paths">
         </span>
         <span class="project-copy">
           <span class="project-heading"><strong>planner</strong><span aria-hidden="true">↗</span></span>
