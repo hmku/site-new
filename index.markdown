@@ -30,11 +30,11 @@ layout: default
       </a>
       <a class="project-card" href="https://cardfolio.harrisonku.com/" target="_blank" rel="noopener noreferrer">
         <span class="project-image">
-          <img src="{{ '/assets/images/cardfolio.png' | relative_url }}" alt="Cardfolio portfolio overview">
+          <img src="{{ '/assets/images/cardfolio-2026-09.png' | relative_url }}" alt="Cardfolio's Cards tab: cardholder stats, a to-do list, and color-coded cards that need a decision or still owe a signup bonus">
         </span>
         <span class="project-copy">
           <span class="project-heading"><strong>cardfolio</strong><span aria-hidden="true">↗</span></span>
-          <span class="project-description">A private household credit-card tracker for accounts, annual fees, recurring benefits, and 5/24 status.</span>
+          <span class="project-description">An open-source household credit-card tracker: color-coded cards that need a keep-or-close decision or still owe a signup bonus, per-card statement credits, product-change history, and 5/24 status.</span>
         </span>
       </a>
     </div>
