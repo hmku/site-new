@@ -48,7 +48,7 @@ layout: default
       </a>
       <a class="project-card" href="https://wayfarer.harrisonku.com/" target="_blank" rel="noopener noreferrer">
         <span class="project-image">
-          <img src="{{ '/assets/images/wayfarer.png' | relative_url }}" alt="Wayfarer's unlock screen: a shared-key sign-in beside a photo of Venice's Grand Canal at sunset">
+          <img src="{{ '/assets/images/wayfarer.png' | relative_url }}" alt="Wayfarer's Been list with sample data: ten destinations such as Kyoto, Lisbon and Banff, each with a score from both partners and a combined Together score">
         </span>
         <span class="project-copy">
           <span class="project-heading"><strong>wayfarer</strong><span aria-hidden="true">↗</span></span>
