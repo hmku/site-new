@@ -55,6 +55,15 @@ layout: default
           <span class="project-description">A private travel journal for two: places we've been and want to go, ranked by head-to-head comparisons into a shared score, with visit dates and notes. Installs on a phone's home screen.</span>
         </span>
       </a>
+      <a class="project-card" href="https://github.com/hmku/ssn-pdf-redactor" target="_blank" rel="noopener noreferrer">
+        <span class="project-image">
+          <img src="{{ '/assets/images/ssn-pdf-redactor.png' | relative_url }}" alt="A sample W-2 before and after redaction, with the SSN and its masked last four digits blacked out, above the command-line run that produced it">
+        </span>
+        <span class="project-copy">
+          <span class="project-heading"><strong>ssn pdf redactor</strong><span aria-hidden="true">↗</span></span>
+          <span class="project-description">A local command-line tool that OCRs tax documents and permanently redacts SSNs, driver's license, and bank numbers, without uploading anything. It writes redacted copies plus a report of pages to review.</span>
+        </span>
+      </a>
     </div>
   </div>
 </section>
