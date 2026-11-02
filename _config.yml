@@ -50,6 +50,8 @@ excerpt_separator: <!--more-->
 
 exclude:
   - collections/_posts
+  - AGENTS.md
+  - CLAUDE.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
