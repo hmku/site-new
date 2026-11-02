@@ -55,15 +55,6 @@ layout: default
           <span class="project-description">A private travel journal for two: places we've been and want to go, ranked by head-to-head comparisons into a shared score, with visit dates and notes. Installs on a phone's home screen.</span>
         </span>
       </a>
-      <a class="project-card" href="https://github.com/vincentxu123/chord-ear-trainer" target="_blank" rel="noopener noreferrer">
-        <span class="project-image project-image-text" aria-hidden="true">
-          <span>I – V – vi – IV</span>
-        </span>
-        <span class="project-copy">
-          <span class="project-heading"><strong>chord ear trainer</strong><span aria-hidden="true">↗</span></span>
-          <span class="project-description">Practice hearing chord progressions as Roman numerals, using real songs, AI-generated clips, or piano. Built mostly by Vincent Xu (vincentxu.dev); I helped.</span>
-        </span>
-      </a>
     </div>
   </div>
 </section>
